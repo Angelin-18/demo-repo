@@ -9,4 +9,5 @@ This is a sample project to practice Git and GitHub.
 
 ## Features  
 - Easy to use  
-- Beginner-friendly  
+- Beginner-friendly ..
+hello
